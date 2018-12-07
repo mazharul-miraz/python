@@ -1,0 +1,10 @@
+#sol.1 >>> input_string 
+input_string = input()
+
+#Sol.2 >>> print 'Hello, World.'
+print('Hello, World.')  
+
+#sol.3 >>> print input_string 
+print(input_string)
+
+#so cool hah, enjoy coding 
